@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\bin\Debug\sample2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\bin\Debug\sample2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\obj\x86\Debug\sample2.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\obj\x86\Debug\sample2.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\obj\x86\Debug\sample2.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\UI1\sample2\sample2\obj\x86\Debug\sample2.pdb

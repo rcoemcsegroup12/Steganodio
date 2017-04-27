@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample2", "sample2\sample2.csproj", "{D24C3C93-AC4A-4525-91E3-E2924E647DAF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Steganodio final", "Steganodio final\Steganodio final.vdproj", "{3FB84196-3DAD-47DA-8065-31BD584C5FE0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{FB1270C8-8C2B-43E7-809B-BA3D1FB7186F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "final final Stegano", "final final Stegano\final final Stegano.vdproj", "{5CFC9EB1-673F-4BC7-AC5F-2418D7F3C5B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Steganodio Setup", "Steganodio Setup\Steganodio Setup.vdproj", "{DF430271-B9C1-4243-8A62-833B3635C208}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Stegano setup final final", "Stegano setup final final\Stegano setup final final.vdproj", "{D104A414-E73B-4FBD-A34D-120EAA8C0CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24C3C93-AC4A-4525-91E3-E2924E647DAF}.Debug|x86.ActiveCfg = Debug|x86
+		{D24C3C93-AC4A-4525-91E3-E2924E647DAF}.Debug|x86.Build.0 = Debug|x86
+		{D24C3C93-AC4A-4525-91E3-E2924E647DAF}.Release|x86.ActiveCfg = Release|x86
+		{D24C3C93-AC4A-4525-91E3-E2924E647DAF}.Release|x86.Build.0 = Release|x86
+		{3FB84196-3DAD-47DA-8065-31BD584C5FE0}.Debug|x86.ActiveCfg = Debug
+		{3FB84196-3DAD-47DA-8065-31BD584C5FE0}.Release|x86.ActiveCfg = Release
+		{FB1270C8-8C2B-43E7-809B-BA3D1FB7186F}.Debug|x86.ActiveCfg = Debug
+		{FB1270C8-8C2B-43E7-809B-BA3D1FB7186F}.Release|x86.ActiveCfg = Release
+		{5CFC9EB1-673F-4BC7-AC5F-2418D7F3C5B8}.Debug|x86.ActiveCfg = Debug
+		{5CFC9EB1-673F-4BC7-AC5F-2418D7F3C5B8}.Release|x86.ActiveCfg = Release
+		{DF430271-B9C1-4243-8A62-833B3635C208}.Debug|x86.ActiveCfg = Debug
+		{DF430271-B9C1-4243-8A62-833B3635C208}.Release|x86.ActiveCfg = Release
+		{D104A414-E73B-4FBD-A34D-120EAA8C0CBD}.Debug|x86.ActiveCfg = Debug
+		{D104A414-E73B-4FBD-A34D-120EAA8C0CBD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
